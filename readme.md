@@ -5,24 +5,34 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Prompt Engineering](#prompt-engineering)
+- [Attacks](#attacks)
+- [Approaches](#approaches)
+- [Events](#events)
 
 
-## Section
+## Prompt Engineering
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Learning Prompting](https://learnprompting.org)
+- [DeepLearning.AI - ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/)
 
 
-## Another Section
+## Attacks
 
-### Subsection
+- [Indirect Prompt Injection](https://greshake.github.io) | [paper](https://arxiv.org/abs/2302.12173) | [blog](https://kai-greshake.de/posts/in-escalating-order-of-stupidity/) | [repo](https://github.com/greshake/llm-security)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+
+## Approaches
+
+- [Anthropic - Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://www.anthropic.com/index/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned)
+- [DeepMind - Red Teaming Language Models with Language Models](https://www.deepmind.com/publications/red-teaming-language-models-with-language-models)
+
+
+## Events
+
+- [HackAPrompt](https://www.aicrowd.com/challenges/hackaprompt-2023)
+- [AI Village at DEFCON - Generative AI Red Team](https://aivillage.org/generative%20red%20team/generative-red-team/)
+- [Twitter - Algorithmic Bias Bounty Challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/learnings-from-the-first-algorithmic-bias-bounty-challenge)
 
 
 ## Contribute
