@@ -28,6 +28,12 @@
 - [DeepMind - Red Teaming Language Models with Language Models](https://www.deepmind.com/publications/red-teaming-language-models-with-language-models)
 
 
+## Tools
+
+- [promptfoo](https://github.com/promptfoo/promptfoo) - Open-source LLM red teaming and evaluation framework. Implements adaptive multi-turn attacks (PAIR, tree-of-attacks, crescendo) that probe jailbreaks, prompt injection, and agent vulnerabilities. CI/CD integration for continuous security testing.
+- [garak](https://github.com/leondz/garak) - LLM vulnerability scanner
+
+
 ## Events
 
 - [HackAPrompt](https://www.aicrowd.com/challenges/hackaprompt-2023)
