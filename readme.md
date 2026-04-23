@@ -33,6 +33,7 @@
 - [HackAPrompt](https://www.aicrowd.com/challenges/hackaprompt-2023)
 - [AI Village at DEFCON - Generative AI Red Team](https://aivillage.org/generative%20red%20team/generative-red-team/)
 - [Twitter - Algorithmic Bias Bounty Challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/learnings-from-the-first-algorithmic-bias-bounty-challenge)
+- [PromptTrace](https://prompttrace.airedlab.com) - Free prompt injection and AI security labs with real LLMs. Full prompt stack visibility via Context Trace. 10 labs + 15-level CTF.
 
 
 ## Contribute
