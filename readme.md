@@ -26,6 +26,7 @@
 
 - [Anthropic - Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://www.anthropic.com/index/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned)
 - [DeepMind - Red Teaming Language Models with Language Models](https://www.deepmind.com/publications/red-teaming-language-models-with-language-models)
+- [AdversaryPilot](https://github.com/Aviral2642/AdversaryPilot) - Adaptive AI red teaming campaign planner for attack sequencing, replayable decision analysis, and defender-facing reporting (works alongside tools like garak and promptfoo).
 
 
 ## Events
