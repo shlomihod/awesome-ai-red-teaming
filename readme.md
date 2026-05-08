@@ -8,6 +8,7 @@
 - [Prompt Engineering](#prompt-engineering)
 - [Attacks](#attacks)
 - [Approaches](#approaches)
+- [Tools](#tools)
 - [Events](#events)
 
 
@@ -26,6 +27,12 @@
 
 - [Anthropic - Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://www.anthropic.com/index/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned)
 - [DeepMind - Red Teaming Language Models with Language Models](https://www.deepmind.com/publications/red-teaming-language-models-with-language-models)
+
+
+## Tools
+
+- [prompt-defense-audit](https://github.com/ppcvote/prompt-defense-audit) - Deterministic LLM prompt defense scanner. Checks system prompts for missing defenses against 17 attack vectors (OWASP LLM Top 10 + 5 agent-specific). Pure regex, zero deps, <5ms. Backed by empirical study of 1,646 production prompts.
+- [ultraprobe](https://github.com/ppcvote/ultralab/tree/master/ultraprobe) - Lighthouse-style scanner for AI agents bundling prompt defense audit, PII detection, and SEO/AEO/AAO scanners into a single AVS Score.
 
 
 ## Events
