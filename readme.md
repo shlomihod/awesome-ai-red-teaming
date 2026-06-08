@@ -9,6 +9,7 @@
 - [Attacks](#attacks)
 - [Approaches](#approaches)
 - [Events](#events)
+- [Tools](#tools)
 
 
 ## Prompt Engineering
@@ -34,6 +35,11 @@
 - [AI Village at DEFCON - Generative AI Red Team](https://aivillage.org/generative%20red%20team/generative-red-team/)
 - [Twitter - Algorithmic Bias Bounty Challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/learnings-from-the-first-algorithmic-bias-bounty-challenge)
 - [PromptTrace](https://prompttrace.airedlab.com) - Free prompt injection and AI security labs with real LLMs. Full prompt stack visibility via Context Trace. 10 labs + 15-level CTF.
+
+
+## Tools
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agent wallets on Solana. Verify agent identity and behavioral history before red-team exercises involving autonomous agents and x402 micropayments. MCP server: , . [MCP endpoint](https://intel.twzrd.xyz/mcp)
 
 
 ## Contribute
