@@ -36,6 +36,10 @@
 - [PromptTrace](https://prompttrace.airedlab.com) - Free prompt injection and AI security labs with real LLMs. Full prompt stack visibility via Context Trace. 10 labs + 15-level CTF.
 
 
+## Tools
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Useful for red teams testing multi-agent attack surfaces and autonomous agent identity verification. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
