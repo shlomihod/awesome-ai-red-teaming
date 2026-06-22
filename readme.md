@@ -20,6 +20,7 @@
 ## Attacks
 
 - [Indirect Prompt Injection](https://greshake.github.io) | [paper](https://arxiv.org/abs/2302.12173) | [blog](https://kai-greshake.de/posts/in-escalating-order-of-stupidity/) | [repo](https://github.com/greshake/llm-security)
+- [hego.red - Practical AI/LLM Red Teaming Notes](https://hego.red/) | prompt injection, jailbreaks, indirect injection, RAG, agents, methodology, worked labs
 
 
 ## Approaches
