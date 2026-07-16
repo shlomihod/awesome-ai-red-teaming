@@ -19,6 +19,7 @@
 
 ## Attacks
 
+- [Redcells](https://redcells.net) - Automated adversarial testing platform for LLMs you own or control. Runs structured red-team jobs (prompt injection, jailbreak, data leakage, etc.) with iterative attack→refine layers and per-layer judge scoring via web dashboard or API. [repo](https://github.com/awdemos/redcell)
 - [Indirect Prompt Injection](https://greshake.github.io) | [paper](https://arxiv.org/abs/2302.12173) | [blog](https://kai-greshake.de/posts/in-escalating-order-of-stupidity/) | [repo](https://github.com/greshake/llm-security)
 
 
