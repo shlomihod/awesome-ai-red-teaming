@@ -20,6 +20,7 @@
 ## Attacks
 
 - [Indirect Prompt Injection](https://greshake.github.io) | [paper](https://arxiv.org/abs/2302.12173) | [blog](https://kai-greshake.de/posts/in-escalating-order-of-stupidity/) | [repo](https://github.com/greshake/llm-security)
+- [NuGuard](https://github.com/NuGuardAI/nuguard) - open-source red-teaming and behavioral validation toolkit for agentic AI applications
 
 
 ## Approaches
