@@ -20,6 +20,7 @@
 ## Attacks
 
 - [Indirect Prompt Injection](https://greshake.github.io) | [paper](https://arxiv.org/abs/2302.12173) | [blog](https://kai-greshake.de/posts/in-escalating-order-of-stupidity/) | [repo](https://github.com/greshake/llm-security)
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of real-world attacks on (and by) AI agents, each with an attack-chain diagram and at least one primary source.
 
 
 ## Approaches
